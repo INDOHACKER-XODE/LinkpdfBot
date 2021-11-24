@@ -42,7 +42,7 @@
   <summary><b>Developer</b></summary>
     <p align="left">
         <img alt="GPL3" src ="https://c.tenor.com/10Zdx_RXqgcAAAAC/programming-crazy.gif" width="260px" style="max-width:100%;"/><br>
-            <a href="https://t.me/YuiHirasawauserbot"><img src="https://img.shields.io/badge/Renjith-Mangal-orange" height="24">
+            <a href="https://t.me/YuiHirasawauserbot"><img src="https://img.shields.io/badge/Aisyah-Yui" height="24">
         </a>&nbsp;
             <a href="https://t.me/UpdateBots1"><img src="https://img.shields.io/badge/Updates-Channel-orange" height="24">
         </a>
